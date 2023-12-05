@@ -1,3 +1,3 @@
-import finta
-print(finta.help())
+import pandas
+
 
